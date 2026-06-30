@@ -4,6 +4,7 @@ import joblib
 import pandas as pd
 import time
 import warnings
+import "secret.h"
 
 # Mengabaikan peringatan jika ada
 warnings.simplefilter(action='ignore', category=FutureWarning)
@@ -15,7 +16,7 @@ print("-> Model AI Berhasil Dimuat!")
 
 print("2. Menghubungkan ke Proyek Firebase...")
 cred = credentials.Certificate("kredensial_firebase.json")
-URL_DB = 'https://rekomendasi-pupuk-default-rtdb.asia-southeast1.firebasedatabase.app/'
+URL_DB = URL_APIKEY
 
 firebase_admin.initialize_app(cred, {
     'databaseURL': URL_DB
