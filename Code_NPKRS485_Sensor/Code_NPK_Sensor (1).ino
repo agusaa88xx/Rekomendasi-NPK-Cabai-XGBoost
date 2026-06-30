@@ -1,5 +1,6 @@
 #include <WiFi.h>
 #include <Firebase_ESP_Client.h>
+#include "secret.h"
 
 // Helper untuk Firebase
 #include "addons/TokenHelper.h"
@@ -11,10 +12,10 @@
 // ========================================================
 // 1. KREDENSIAL WIFI & FIREBASE
 // ========================================================
-#define WIFI_SSID "PC-DC-1A"
-#define WIFI_PASSWORD "karakter"
-#define API_KEY "AIzaSyCsp7J_GG4SvTx1JdHv7W-ZGqxEF39iLs0"
-#define DATABASE_URL "rekomendasi-pupuk-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define WIFI_SSID WIFI_NAME
+#define WIFI_PASSWORD WIFI_PASS
+#define API_KEY HOST_APIKEY
+#define DATABASE_URL URL_APIKEY
 
 // Objek Firebase
 FirebaseData fbdo;
