@@ -1,13 +1,14 @@
 #include <WiFi.h>
 #include <Firebase_ESP_Client.h> 
+#include "secret.h"
 
 // ================= KONFIGURASI JARINGAN =================
-#define WIFI_SSID "PC-DC-1A"
-#define WIFI_PASSWORD "karakter"
+#define WIFI_SSID WIFI_NAME
+#define WIFI_PASSWORD WIFI_PASS
 
 // ================= KONFIGURASI FIREBASE =================
-#define FIREBASE_HOST "rekomendasi-pupuk-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "ZpAdb1bhcuWDd6WLSI2hid3ZGVwQNX7MYtMx62JJ" 
+#define FIREBASE_HOST HOST_URL_FIREBASE
+#define FIREBASE_AUTH FIREBASE_SECURITY 
 
 // ================= PIN SENSOR RS485 =================
 #define RX_PIN 16
