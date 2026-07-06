@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rekomendasi-pupuk",
+  "private_key_id": "d8b95e3c1e711b02e271265258c4e343e2aa3e7a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTxFRfaQmzT7n1\nWOhsq/Ahxbd87KE6vqO658l6zGdmLKqam9YSGTrR6uyxkMoQHDSFxY4KF6vYN1SD\ns6LgZfhl7LbGsxEW89A6zENAkFM46TgoOm0Qq9QaWWuq9kUQa/WHSX7DwRenaQ5e\nC5Ea5hKtpDd2tEuqEjM3h80Ckqxby6Qz+VmcsY3uITmR6i6mEZoVPjiQqZu3iINV\nOIWddTnhSbLYvSmOti709DSRb9zogiraqlKtzMDVLX+n2P2p8ThDJYZky846udR8\n/Kf5zfAcAE+DL+3DtA6b2i4z+wg5ci6kq115QLGu8V3Pgh518vSClNduOYy0lDR5\nscK4IvvzAgMBAAECggEACyfqG/agHLKkBMFQyTzLkzPjxTCAE+SsInIIgrAW+GJ9\nAFUaU2zB1QIvwvDyPCQIPk3YfD6f/m13xdJmT7T/f3sXa+NOEKv6ecZ9+n4/7B0Z\nKMFfMoQi0dqJGgIMRF+zmRNtmqlm8hpON/UbCVQ6gqxGgbngzI5V5WSBj9OjQdih\nfi9eTD6eMEAzdge34SW82fzS6j372JcpLv4YSLWaoSACQBeXs+XDTYndr0dJ6/2o\nk6t04pKHkQuh9Qp7TB0+wvEGJ7GealtXhBbNIOr+CY4YYCKL137n6AEXqupdWQsD\nz9wRDOp9cO/YEXr+Vqyv3zeldLGUWvpUcoEzOM45JQKBgQDtAeb4Ze5pAfs933ax\nr8H6B1Fr2vpV4cAa8Fcd+0JUKqYkFUdN6RfsKkb4Rx7vpQT1ISCsxNKDGZeIqllG\nQmOi5MCrAGyFNy6mvr0Pt9fGQrhKN7CclY9Vu6j8iGyEYx1LpLtOpezRJHDhK3jO\nP7wQ1hO9OoUFp2sUGThS7EkYTwKBgQDkvKE6uNz9fB3/Fz5d8NC4D+B/g/mjS2uE\nANUmUpulHM5jV3lIuJpabEW065ev9WdxKwVALN4N3SkdFww9t/b1akYT86Uppoqh\nyq6UdbVvP7VlVo0lzMRo4B48dVBuv6bxitP/xkY+h8+3All7ZCXeYRffMOwGSYEc\nKaFP6WdVHQKBgQDHKl8PBJFZWtnnf779yIXId5fbe/P8ca3+tVNwFXICyqg9EEiQ\nVz3MLybegt2jYtgMql8L8IY6tynZJdXJrgaOn46s5LlNJTcl1omICOThbbXyYGQg\n4anG0OFL/dS7V5MJuw/QIq0kf2wAPIjTQUnoGA4UaXXZb3wTMrJbNMakDwKBgGWB\nW98uSEto9/rKus9/XXBBA3QzAeY4QucaY3yVLiLwjJpDKDxgR4cXAzwNTIw2UAhF\nehgHkSb/3Q3eu3zsFXjFB4I1HjdEg8LWqfCR58kNsZbd+NcsboDH7EMSIHZ1MEWC\nQSABQgzfwgrJzSHXyIJN/gT6tdL4bYYs5zwKLOP1AoGAcj/j+hVL2375SeiaNyAq\nJRYgpK95naec7sLJAoTp7N22ZET3gaR/dkCg01UTW34bkP41KLEaFnRno4IyUDE2\nRCWGeG/1xZ9vlri7ynrdlUe1dTEXEtQO2/1Dac+PdOPso9Itb6JwJwQuCgXqaFu2\n5LGhaqOgZQbtQLIhf3rnYuA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@rekomendasi-pupuk.iam.gserviceaccount.com",
+  "client_id": "109233998443923655750",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40rekomendasi-pupuk.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
